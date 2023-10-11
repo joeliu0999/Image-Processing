@@ -1,0 +1,4 @@
+Cannot generate into D:\programming languages\COP 3504\project 3
+It is already used for project D:\COP 3504\C++\project 3
+
+Please either delete it manually or select another generation directory

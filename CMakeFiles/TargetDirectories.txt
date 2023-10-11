@@ -1,0 +1,3 @@
+D:/COP 3504/C++/project 3/CMakeFiles/image-processor.dir
+D:/COP 3504/C++/project 3/CMakeFiles/edit_cache.dir
+D:/COP 3504/C++/project 3/CMakeFiles/rebuild_cache.dir
