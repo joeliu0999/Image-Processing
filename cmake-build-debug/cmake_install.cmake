@@ -1,8 +1,8 @@
-# Install script for directory: D:/COP 3504/C++/project 3
+# Install script for directory: D:/programming languages/COP 3504/Image-Processing-Project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/project_3")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/image-Processing-Project")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/COP 3504/C++/project 3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/programming languages/COP 3504/Image-Processing-Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

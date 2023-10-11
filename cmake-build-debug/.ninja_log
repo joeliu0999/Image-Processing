@@ -1,13 +1,8 @@
 # ninja log v5
-4	793	6903519744408187	CMakeFiles/image-processor.dir/main.cpp.obj	e93c88b0577731fe
-46	715	6903210551923427	build.ninja	37922f7d7608382c
-7	758	6903188102051257	CMakeFiles/project_3.dir/main.cpp.obj	8952985aefd5654c
-17	714	6903188101612129	CMakeFiles/project_3.dir/image-processor.cpp.obj	63c4a246590ae6bb
-3	395	6903482837735445	CMakeFiles/image-processor.dir/image-processor.cpp.obj	ad793d5e660902a5
-793	959	6903519746043791	image-processor.exe	f12f9a6108806ed3
-5	435	6903523382175791	CMakeFiles/image-processor.dir/main.cpp.obj	e93c88b0577731fe
-435	560	6903523383403467	image-processor.exe	f12f9a6108806ed3
-2	424	6903524306895376	CMakeFiles/image-processor.dir/main.cpp.obj	e93c88b0577731fe
-424	523	6903524307863076	image-processor.exe	f12f9a6108806ed3
 3	478	6903524947395983	CMakeFiles/image-processor.dir/main.cpp.obj	e93c88b0577731fe
+46	715	7186970232882904	build.ninja	37922f7d7608382c
+3	395	6903482837735445	CMakeFiles/image-processor.dir/image-processor.cpp.obj	ad793d5e660902a5
 479	601	6903524948582834	image-processor.exe	f12f9a6108806ed3
+10	399	7186970262564239	CMakeFiles/image-processor.dir/image-processor.cpp.obj	e8a2ea71fb2b9a03
+4	447	7186970263053239	CMakeFiles/image-processor.dir/main.cpp.obj	ea8d8675414b995b
+447	565	7186970264199842	image-processor.exe	f12f9a6108806ed3
